@@ -2,7 +2,7 @@ import React from 'react';
 import { Accordion } from 'flowbite-react';
 const Blog = () => {
     return (
-        <div className='md:px-4 px-2 md:mt-5 mt-5'>
+        <div className='md:px-20 px-12 md:mt-5 mt-5'>
             <Accordion>
                 <Accordion.Panel>
                     <Accordion.Title>
