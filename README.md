@@ -2,7 +2,7 @@
 
 This project was with React App For Test Your Skill.
 
-Live Site : []()
+Live Site : [https://magical-parfait-9c4e3b.netlify.app/](https://magical-parfait-9c4e3b.netlify.app/)
 
 ## Available Features
 
