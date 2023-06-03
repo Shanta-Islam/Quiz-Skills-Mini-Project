@@ -1,10 +1,11 @@
 import { Navbar } from 'flowbite-react';
 import { NavLink } from 'react-router-dom';
+import './Header.css';
  
 const Header = () => {
     return (
         <div className='text-white'>
-            <Navbar fluid={true} rounded={true} className='py-4 bg-sky-400'>
+            <Navbar fluid={true} rounded={true} className='py-4 header'>
                 <Navbar.Brand>
                     <NavLink to="/">
                         <span className="text-2xl font-bold">
